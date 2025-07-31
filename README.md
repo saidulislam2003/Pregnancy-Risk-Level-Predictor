@@ -44,11 +44,12 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 - **Joblib** for model serialization
 
 ## 📂 Repository Structure
-Pregnancy-Risk-Level-Predictor/
-│
-├── app.py # Streamlit web app
-├── model/
-│ └── rf_model.pkl # Trained Random Forest model
-├── pregnancy.csv # Dataset used for training
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+
+## 💻 Run Locally
+
+```bash
+git clone https://github.com/saidulislam2003/Pregnancy-Risk-Level-Predictor.git
+cd Pregnancy-Risk-Level-Predictor
+pip install -r requirements.txt
+streamlit run app.py
+
