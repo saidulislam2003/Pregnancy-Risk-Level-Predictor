@@ -33,7 +33,7 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 
 ## 📸 Screenshots
 
-![App Screenshot](https://i.imgur.com/yDcQ8Qe.png)
+![App Screenshot](AppScreenshot.png)
 
 ## 🛠️ Tech Stack
 
