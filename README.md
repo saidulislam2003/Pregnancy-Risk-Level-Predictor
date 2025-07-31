@@ -19,10 +19,8 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 - Blood Sugar
 - Body Temperature
 - Heart Rate
-- Number of Miscarriages
-- Weeks of Pregnancy
 - Diabetes
-- Hypertension
+- Mental Health Condition
 - Other Medical Conditions
 
 ## 🚀 How It Works
@@ -30,7 +28,6 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 1. User inputs health and medical data into the form.
 2. The model predicts whether the pregnancy risk is:
    - **Low**
-   - **Medium**
    - **High**
 3. A risk level is displayed instantly on-screen.
 
