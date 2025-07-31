@@ -10,7 +10,7 @@ A Machine Learning-powered web application that predicts the **risk level of pre
 
 ## 🧠 Model Info
 
-The model is trained using the [Pregnancy Risk Classification Dataset](https://www.kaggle.com/datasets/saurabhshahane/pregnancy-risk-classification), which includes clinical and demographic indicators. A **Logistic Regression** was chosen due to its robustness and accuracy in handling imbalanced and nonlinear data.
+The model is trained using the [Pregnancy Risk Classification Dataset](https://www.kaggle.com/datasets/vmohammedraiyyan/maternal-health-and-high-risk-pregnancy-dataset), which includes clinical and demographic indicators. A **Logistic Regression** was chosen due to its robustness and accuracy in handling imbalanced and nonlinear data.
 
 ## 📊 Features Used
 
@@ -80,7 +80,7 @@ This application is intended for educational and informational purposes only. It
 This project is licensed under the ![MIT License](LICENSE)
 
 ## 🙌 Acknowledgements
-   - Dataset: ![Kaggle - Pregnancy Risk Classification](https://www.kaggle.com/datasets/saurabhshahane/pregnancy-risk-classification)
+   - Dataset: ![Kaggle - Pregnancy Risk Classification](https://www.kaggle.com/datasets/vmohammedraiyyan/maternal-health-and-high-risk-pregnancy-dataset)
    - Streamlit for making ML deployment easy
    - Scikit-learn for the powerful ML toolkit
 
