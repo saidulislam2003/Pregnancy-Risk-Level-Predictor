@@ -47,11 +47,13 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 ```
 Pregnancy-Risk-Level-Predictor/
 │
-├── app.py # Main Streamlit application script
+├── Pregnancy Risk Prediction.ipynb
+├── app.py
 ├── model/
-│ └── rf_model.pkl # Serialized Random Forest model file
-├── pregnancy.csv # Dataset used for training and evaluation
-├── requirements.txt # List of Python dependencies
+│ └── model.pkl
+   └── features.pkl
+├── pregnancy dataset.csv 
+├── requirements.txt
 └── README.md # Project documentation (you're reading it!)
 ```
 ## 💻 Run Locally
