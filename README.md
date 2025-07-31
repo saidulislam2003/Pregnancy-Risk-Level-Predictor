@@ -10,7 +10,7 @@ A Machine Learning-powered web application that predicts the **risk level of pre
 
 ## 🧠 Model Info
 
-The model is trained using the [Pregnancy Risk Classification Dataset](https://www.kaggle.com/datasets/saurabhshahane/pregnancy-risk-classification), which includes clinical and demographic indicators. A **Random Forest Classifier** was chosen due to its robustness and accuracy in handling imbalanced and nonlinear data.
+The model is trained using the [Pregnancy Risk Classification Dataset](https://www.kaggle.com/datasets/saurabhshahane/pregnancy-risk-classification), which includes clinical and demographic indicators. A **Logistic Regression** was chosen due to its robustness and accuracy in handling imbalanced and nonlinear data.
 
 ## 📊 Features Used
 
