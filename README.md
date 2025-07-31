@@ -63,4 +63,25 @@ git clone https://github.com/saidulislam2003/Pregnancy-Risk-Level-Predictor.git
 cd Pregnancy-Risk-Level-Predictor
 pip install -r requirements.txt
 streamlit run app.py
+```
 
+## 📦 Install Requirements
+```
+pip install streamlit scikit-learn pandas joblib
+```
+
+## 📈 Model Accuracy
+The Logistic Regression achieved 99% accuracy on the validation set, showing strong generalization capabilities.
+
+## 🔒 Disclaimer
+This application is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult with a qualified healthcare provider regarding any medical concerns.
+
+## 📜 License
+This project is licensed under the ![MIT License](LICENSE)
+
+## 🙌 Acknowledgements
+   - Dataset: ![Kaggle - Pregnancy Risk Classification](https://www.kaggle.com/datasets/saurabhshahane/pregnancy-risk-classification)
+   - Streamlit for making ML deployment easy
+   - Scikit-learn for the powerful ML toolkit
+
+# Made with ❤️ by ![Saidul Islam](https://github.com/saidulislam2003)
