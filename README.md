@@ -45,7 +45,7 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 
 ## 📂 Repository Structure
 
-Pregnancy-Risk-Level-Predictor/
+```Pregnancy-Risk-Level-Predictor/
 │
 ├── app.py # Main Streamlit application script
 ├── model/
@@ -53,7 +53,7 @@ Pregnancy-Risk-Level-Predictor/
 ├── pregnancy.csv # Dataset used for training and evaluation
 ├── requirements.txt # List of Python dependencies
 └── README.md # Project documentation (you're reading it!)
-
+```
 ## 💻 Run Locally
 
 ```bash
