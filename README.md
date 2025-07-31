@@ -44,8 +44,8 @@ The model is trained using the [Pregnancy Risk Classification Dataset](https://w
 - **Joblib** for model serialization
 
 ## 📂 Repository Structure
-
-```Pregnancy-Risk-Level-Predictor/
+```
+Pregnancy-Risk-Level-Predictor/
 │
 ├── app.py # Main Streamlit application script
 ├── model/
